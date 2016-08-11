@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'sinatra'
+gem 'sinatra-activerecord'
 gem 'tux'
 gem 'require_all'
 gem 'rake'
